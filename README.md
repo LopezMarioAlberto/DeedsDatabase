@@ -13,4 +13,4 @@ The platform will have access for registered customers with social login, who ca
 Attachments:
 
 1) Database design: database_design.png
-2) 2) Database process: database_process.png
+2) Database process: database_process.png
